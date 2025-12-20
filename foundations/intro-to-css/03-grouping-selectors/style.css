@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+/* We only start 
+
+                    coding on line
+                    
+                                    6 around here */
+.black, .yellow {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+    border-radius: 0%;
+    border-color: black;
+}
+
+.black {
+    color: white;
+    background-color: black;
+}
+
+.yellow {
+    background-color: yellow;
+}
