@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+
+
+
+.best {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    background-color: pink;
+}
+
+.cooler {
+    font-size: 33px;
+}
+
+#one-id {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: blue;
+}
+#two-id {
+    font-size: 40px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
