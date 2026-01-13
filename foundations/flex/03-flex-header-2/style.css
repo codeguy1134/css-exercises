@@ -49,3 +49,35 @@ ul {
 
 /* SOLUTION BELOW THIS LINE */
 
+.header {
+  display: flex;
+}
+
+ul {
+  display: flex;
+  align-items: flex-start;
+  flex-grow: 1;
+  gap: 15px;
+}
+
+button {
+  height: 25px;
+  display: flex;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.butpro {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+  padding: 10px
+}
